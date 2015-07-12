@@ -43,6 +43,9 @@
 [submodule "transport"]
 	path = transport
 	url = git@github.com:giantjs/giant-transport.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:giantjs/giant-utils.git
 [submodule "widget"]
 	path = widget
 	url = git@github.com:giantjs/giant-widget.git
