@@ -1,51 +1,51 @@
 [submodule "assertion"]
-	path = assertion
+	path = modules/assertion
 	url = git@github.com:giantjs/giant-assertion.git
 [submodule "asset"]
-	path = asset
+	path = modules/asset
 	url = git@github.com:giantjs/giant-asset.git
 [submodule "cli-tools"]
-	path = cli-tools
+	path = modules/cli-tools
 	url = git@github.com:giantjs/giant-cli-tools.git
 [submodule "common-widgets"]
-	path = common-widgets
+	path = modules/common-widgets
 	url = git@github.com:giantjs/giant-common-widgets.git
 [submodule "data"]
-	path = data
+	path = modules/data
 	url = git@github.com:giantjs/giant-data.git
 [submodule "entity"]
-	path = entity
+	path = modules/entity
 	url = git@github.com:giantjs/giant-entity.git
 [submodule "event"]
-	path = event
+	path = modules/event
 	url = git@github.com:giantjs/giant-event.git
 [submodule "framework"]
-	path = framework
+	path = modules/framework
 	url = git@github.com:giantjs/giant.git
 [submodule "i18n"]
-	path = i18n
+	path = modules/i18n
 	url = git@github.com:giantjs/giant-i18n.git
 [submodule "namespace"]
-	path = namespace
+	path = modules/namespace
 	url = git@github.com:giantjs/giant-namespace.git
 [submodule "oop"]
-	path = oop
+	path = modules/oop
 	url = git@github.com:giantjs/giant-oop.git
 [submodule "routing"]
-	path = routing
+	path = modules/routing
 	url = git@github.com:giantjs/giant-routing.git
 [submodule "table"]
-	path = table
+	path = modules/table
 	url = git@github.com:giantjs/giant-table.git
 [submodule "templating"]
-	path = templating
+	path = modules/templating
 	url = git@github.com:giantjs/giant-templating.git
 [submodule "transport"]
-	path = transport
+	path = modules/transport
 	url = git@github.com:giantjs/giant-transport.git
 [submodule "utils"]
-	path = utils
+	path = modules/utils
 	url = git@github.com:giantjs/giant-utils.git
 [submodule "widget"]
-	path = widget
+	path = modules/widget
 	url = git@github.com:giantjs/giant-widget.git
