@@ -7,7 +7,14 @@ Development tools for Giant
 
 Use this repo for contributing to Giant.
 
-Running specific commands for all modules:
+Installation
+------------
+
+    npm install -g karma
+    npm install -g karma-qunit
+
+Batch commands
+--------------
 
 1. NPM install - `./scripts/loop.sh ./scripts/install.sh`
 2. Git tag - `./scripts/loop.sh ./scripts/tag.sh vX.X.X`
