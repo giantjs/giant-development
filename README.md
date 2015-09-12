@@ -11,11 +11,10 @@ Installation
 ------------
 
     npm install -g karma
-    npm install -g karma-qunit
 
 Batch commands
 --------------
 
-1. NPM install - `./scripts/loop.sh ./scripts/install.sh`
-2. Git tag - `./scripts/loop.sh ./scripts/tag.sh vX.X.X`
-3. Grunt build - `./scripts/loop.sh ./scripts/build.sh`
+1. NPM install - `./scripts/loop.sh | ./scripts/install.sh`
+2. Git tag - `./scripts/loop.sh | ./scripts/tag.sh vX.X.X`
+3. Grunt build - `./scripts/loop.sh | ./scripts/build.sh`
