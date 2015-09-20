@@ -24,8 +24,13 @@ elif [[ $1 == clear ]]; then
     echo -e "${CYAN}Clearing module packages${NC}"
     ./scripts/giant-dev.sh batch "rm -f *.tgz"
 elif [[ $1 == build ]]; then
-    echo -e "${CYAN}Building modules${NC}"
-    (cat ./scripts/modules.dat | xargs -n 1 ./scripts/build-distribute.sh)
+    if [ $# -lt 2 ]; then
+        echo -e "${CYAN}Building modules${NC}"
+        (cat ./scripts/modules.dat | xargs -n 1 ./scripts/build-distribute.sh)
+    else
+        echo -e "${CYAN}Building module${NC} $2"
+        ./scripts/build-distribute.sh $2
+    fi
 elif [[ $1 == run ]]; then
     if [ $# -lt 3 ]; then
         echo "Usage:"
