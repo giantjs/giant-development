@@ -3,10 +3,30 @@ Development tools for Giant
 
 [Web](http://giantjs.org) [Npm](https://www.npmjs.com/~giantjs) [GitHub](https://github.com/giantjs)
 
-Use this repo for contributing to Giant.
+**WARNING**: Giant is in a state of flux. Expect frequent breaking changes.
 
-Running specific commands for all modules:
+This repo is for contributing to Giant. If you want to use Giant in your app, see [https://www.npmjs.com/package/giant](https://www.npmjs.com/package/giant).
 
-1. NPM install - `./scripts/loop.sh ./scripts/install.sh`
-2. Git tag - `./scripts/loop.sh ./scripts/tag.sh vX.X.X`
-3. Grunt build - `./scripts/loop.sh ./scripts/build.sh`
+Installation
+------------
+
+### Giant Development CLI
+
+Running the following command from the project root will give you the CLI `giant-dev` through which you can run (batch) commands for one or more modules.
+
+    npm install -g
+
+### Karma
+
+It advised to install Karma if you don't have it already.
+
+    npm install -g karma
+
+CLI Usage
+---------
+
+### Example
+
+Lists the working directories for all Giant modules.
+
+    giant-dev batch pwd

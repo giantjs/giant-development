@@ -1,0 +1,23 @@
+{
+  "name": "giant-development",
+  "version": "0.0.5",
+  "description": "Development tools for Giant",
+  "keywords": [
+    "giant",
+    "development",
+    "contribution"
+  ],
+  "author": "Dan Stocker <dan@kwaia.com>",
+  "copyright": "Copyright (c) 2015 Dan Stocker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:giantjs/giant-development.git"
+  },
+  "files": [
+    "scripts"
+  ],
+  "bin": {
+    "giant-dev": "scripts/giant-dev.sh"
+  }
+}
