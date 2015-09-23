@@ -49,3 +49,6 @@
 [submodule "widget"]
 	path = modules/widget
 	url = git@github.com:giantjs/giant-widget.git
+[submodule "websites/giantjs.org"]
+	path = websites/giantjs.org
+	url = git@github.com:giantjs/giantjs.org.git
