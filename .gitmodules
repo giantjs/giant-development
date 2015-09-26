@@ -52,3 +52,6 @@
 [submodule "websites/giantjs.org"]
 	path = websites/giantjs.org
 	url = git@github.com:giantjs/giantjs.org.git
+[submodule "modules/grunt-tools"]
+	path = modules/grunt-tools
+	url = git@github.com:giantjs/giant-grunt-tools.git
