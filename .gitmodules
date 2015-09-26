@@ -22,12 +22,12 @@
 [submodule "framework"]
 	path = modules/framework
 	url = git@github.com:giantjs/giant.git
+[submodule "modules/grunt-tools"]
+	path = modules/grunt-tools
+	url = git@github.com:giantjs/giant-grunt-tools.git
 [submodule "i18n"]
 	path = modules/i18n
 	url = git@github.com:giantjs/giant-i18n.git
-[submodule "namespace"]
-	path = modules/namespace
-	url = git@github.com:giantjs/giant-namespace.git
 [submodule "oop"]
 	path = modules/oop
 	url = git@github.com:giantjs/giant-oop.git
@@ -52,6 +52,3 @@
 [submodule "websites/giantjs.org"]
 	path = websites/giantjs.org
 	url = git@github.com:giantjs/giantjs.org.git
-[submodule "modules/grunt-tools"]
-	path = modules/grunt-tools
-	url = git@github.com:giantjs/giant-grunt-tools.git
