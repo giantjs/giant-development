@@ -13,5 +13,6 @@ widget
 transport
 common-widgets
 asset
+grunt-tools
 cli-tools
 framework
