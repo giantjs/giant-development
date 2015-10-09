@@ -4,6 +4,9 @@
 [submodule "asset"]
 	path = modules/asset
 	url = git@github.com:giantjs/giant-asset.git
+[submodule "modules/cli"]
+	path = modules/cli
+	url = git@github.com:giantjs/giant-cli.git
 [submodule "cli-tools"]
 	path = modules/cli-tools
 	url = git@github.com:giantjs/giant-cli-tools.git
