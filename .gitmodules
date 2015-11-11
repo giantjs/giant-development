@@ -55,9 +55,12 @@
 [submodule "websites/giantjs.org"]
 	path = websites/giantjs.org
 	url = git@github.com:giantjs/giantjs.org.git
-[submodule "boilerplate/project-boilerplate"]
-	path = boilerplate/project-boilerplate
-	url = git@github.com:giantjs/giant-project-boilerplate.git
 [submodule "boilerplate/module-boilerplate"]
 	path = boilerplate/module-boilerplate
 	url = git@github.com:giantjs/giant-module-boilerplate.git
+[submodule "boilerplate/application-boilerplate"]
+	path = boilerplate/application-boilerplate
+	url = git@github.com:giantjs/giant-application-boilerplate.git
+[submodule "boilerplate/project-boilerplate"]
+	path = boilerplate/project-boilerplate
+	url = git@github.com:giantjs/giant-project-boilerplate.git
