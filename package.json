@@ -1,7 +1,7 @@
 {
   "name": "giant-development",
-  "version": "0.2.0",
-  "description": "Umbrella package for Giant, containing all relevant repos as submodules.",
+  "version": "0.3.0",
+  "description": "Umbrella package for Giant development, containing all relevant repos as submodules.",
   "keywords": [
     "giant",
     "development",
