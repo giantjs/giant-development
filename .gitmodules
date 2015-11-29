@@ -1,3 +1,6 @@
+[submodule "modules/ajax"]
+	path = modules/ajax
+	url = git@github.com:giantjs/giant-ajax.git
 [submodule "assertion"]
 	path = modules/assertion
 	url = git@github.com:giantjs/giant-assertion.git
