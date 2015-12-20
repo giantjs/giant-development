@@ -7,6 +7,9 @@
 [submodule "asset"]
 	path = modules/asset
 	url = git@github.com:giantjs/giant-asset.git
+[submodule "modules/basic-widgets"]
+	path = modules/basic-widgets
+	url = git@github.com:giantjs/giant-basic-widgets.git
 [submodule "modules/cli"]
 	path = modules/cli
 	url = git@github.com:giantjs/giant-cli.git

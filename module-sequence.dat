@@ -12,6 +12,7 @@ i18n
 routing
 widget
 transport
+basic-widgets
 common-widgets
 asset
 grunt-tools
