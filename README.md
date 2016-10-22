@@ -3,7 +3,7 @@ Development tools for Giant
 
 [Web](http://giantjs.org) [Npm](https://www.npmjs.com/~giantjs) [GitHub](https://github.com/giantjs)
 
-**WARNING**: Giant is in a state of flux. Expect frequent breaking changes.
+Stability: **STABLE**
 
 This repo is for contributing to Giant. If you want to use Giant in your app, see [https://www.npmjs.com/package/giant](https://www.npmjs.com/package/giant).
 
